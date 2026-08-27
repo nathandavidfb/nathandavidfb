@@ -24,7 +24,7 @@ Desenvolvedor focado em **Full-Stack**, **Sistemas em C/C++** e **Engenharia/An�
 ### 📫 Onde me encontrar
 
 - **LinkedIn:** [linkedin.com/in/nathandavidfb](https://www.linkedin.com/in/nathandavidfb/)
-- **E-mail:** nathancpm1@gmail.com## Hi there 👋
+- **E-mail:** nathancpm1@gmail.com
 
 <!--
 **nathandavidfb/nathandavidfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
