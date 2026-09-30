@@ -14,13 +14,6 @@ Desenvolvedor focado em **Full-Stack**, **Sistemas em C/C++** e **Engenharia/An�
 
 ---
 
-### 🚀 Projetos em Destaque
-
-- **[Projeto Colab](https://github.com/SEU_USUARIO/LINK_DO_REPOSITORIO):** Plataforma web institucional completa desenvolvida com React, TypeScript, Vite e Tailwind CSS, integrada a serviços back-end via REST APIs.
-- **[PolyArt](https://github.com/SEU_USUARIO/LINK_DO_REPOSITORIO):** Motor de renderização e simulação gráfica orientado a objetos em C++ com suporte a formas geométricas vetoriais e camadas dinâmicas.
-
----
-
 ### 📫 Onde me encontrar
 
 - **LinkedIn:** [linkedin.com/in/nathandavidfb](https://www.linkedin.com/in/nathandavidfb/)
