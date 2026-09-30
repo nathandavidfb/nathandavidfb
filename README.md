@@ -7,7 +7,7 @@ Desenvolvedor focado em **Full-Stack**, **Sistemas em C/C++** e **Engenharia/An�
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Python, TypeScript, JavaScript, C++, C, SQL
+- **Linguagens:** Python, C, SQL
 - **Front-end:** React, Vite, Next.js, Tailwind CSS, Radix UI, HTML5/CSS3
 - **Back-end & Dados:** APIs RESTful, Axios, Pandas, NumPy, SQLite, Flask
 - **DevOps & Ferramentas:** Git, GitHub, Linux, Vercel
